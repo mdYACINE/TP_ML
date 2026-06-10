@@ -1,7 +1,6 @@
 # Machine Learning and AutoML Project
 
-## Student
-Mahmoudi Abderrahmane Yacine , 1AI
+## Student : Mahmoudi Abderrahmane Yacine , 1AI
 
 ---
 
