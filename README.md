@@ -88,9 +88,3 @@ The concept of AutoML was studied and compared with manual models.
 ## 📌 Conclusion
 
 This project demonstrates the application of Machine Learning techniques in real-world problems such as customer segmentation and fraud detection, as well as an introduction to AutoML concepts.
-
----
-
-## 👨‍🎓 Note
-
-This project was done as part of academic coursework.
